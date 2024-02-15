@@ -11,3 +11,5 @@ An engaging web development project by creating a dynamic blog website using HTM
 ![6](https://github.com/aryankumar120/Blogging_Website/assets/134778655/f6cd26c4-9906-4080-954a-e83cc28ccdd7)
 ![7](https://github.com/aryankumar120/Blogging_Website/assets/134778655/e9e42066-de5b-4ee6-9325-8aeb89bebb75)
 ![8](https://github.com/aryankumar120/Blogging_Website/assets/134778655/0b5ef9c0-5a86-44c7-8724-04cf26856d36)
+
+                                           Thank you for visiting!
