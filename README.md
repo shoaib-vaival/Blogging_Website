@@ -1,8 +1,6 @@
 # Bloggary
 An engaging web development project by creating a dynamic blog website using HTML, CSS, and JavaScript. I'd like to emphasize the significance of responsive design. In the project thaings that are used like CSS flexbox and grid layouts, media queries, fluid design that ensures the website's content and layout adjust according to the screen size.
 
-linktext([https://www.youtube.com/watch?v=EF6fqnnl3Uk]). 
-
 #Output:
 
 ![1](https://github.com/aryankumar120/Blogging_Website/assets/134778655/75497aa1-aeee-4909-8fe0-fdf92cafcb84)
