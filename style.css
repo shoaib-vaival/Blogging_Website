@@ -12,14 +12,14 @@ html,body{
 
 a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .flex-row{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    color: black;
+    color: white;
 }
 
 ul{
@@ -37,6 +37,7 @@ h3{
 }   
 
 button.btn{
+    color: white !important;
     border: none;
     border-radius: 2rem;
     padding: 1rem 3rem;
@@ -53,7 +54,7 @@ span{
 }
 
 .text-gray{
-    color:black;
+    color:white;
 }
 
 p{
@@ -175,7 +176,7 @@ main .title h1,h3{
 
 main .title .btn{
     margin: 1.9rem;
-    background-image: linear-gradient(to top, #133056 0%, #7fa6c4 100%);
+    background-image: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
 }
  
 main .title .btn:hover{
@@ -210,7 +211,9 @@ main .blogg-post .blogg-content{
 }
 
 main .blogg-content .blogg-title{
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
     padding: 1.5rem 2rem;
+    color: white;
 }
 
 h3{
@@ -231,7 +234,7 @@ main .blogg-content span{
 
 .owl-theme .owl-nav[class*='owl-']:hover{
     background: transparent;
-    color: black;
+    color: white;
     size: 2rem;
 }
 
@@ -252,7 +255,7 @@ main .site-content .post-content > .post-image, .post-title{
 }
 
 main .site-content .post-content > .post-image .post-info{
-    background: #5a9bf1;
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
     padding: 1rem;
     position: absolute;
     bottom: 0%;
@@ -280,9 +283,8 @@ main .post-content .post-title a{
 }
 
 .site-content .post-content .post-title .post-btn{
-    border-radius: 0;
-    padding: .7rem 1.5rem;
-    background: #5a9bf1;
+    border-radius: 50px;
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
 }
 
 .site-content .turnpage{
@@ -299,7 +301,7 @@ main .post-content .post-title a{
 }
 
 .site-content .turnpage .page{
-    background: rgb(37, 36, 36);
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
     color: white;
 }
 
@@ -311,7 +313,7 @@ main .post-content .post-title a{
 }
 
 .site-content > .sidebar .category-list .list-items{
-    background: #3f86e4d9;
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
     padding: .7rem 1rem;
     margin: .8rem 0;
     border-radius: 3rem;
@@ -325,7 +327,7 @@ h2{
 }
 
 .site-content > .sidebar .category-list .list-items a{
-    color: black;
+    color: white;
 }
 
 .site-content .sidebar .mostvisited-posts .post-content{
@@ -337,12 +339,11 @@ h2{
 }
 
 .site-content .sidebar .mostvisited-posts .post-info{
-    padding: .4rem .1rem !important;
+    padding: 10px !important;
     bottom: 0rem !important;
     left: 1.5rem !important;
-    border-radius: 0rem !important;
-    background: rgb(236, 236, 236) !important;
-}
+    border-radius: 2rem !important;
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%)}
 
 .site-content .sidebar .mostvisited-posts .post-title a{
     font-size: 1rem;
@@ -355,7 +356,7 @@ h2{
 }
  
 .site-content .sidebar .most-searched-tags .tag .name{
-    background: #3f86e4d9;
+    background: linear-gradient(31.33deg, #B031F3 27.32%, #583DE0 86.89%);
     padding: .6rem 1rem;
     padding-left: 1rem;
     border-radius: 3rem;
