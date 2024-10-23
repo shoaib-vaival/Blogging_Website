@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&family=Vollkorn:ital,wght@1,500&display=swap');
 
 html,body{
+    background:linear-gradient(289.67deg, #961cbe40 0.54%, #fefdff40 56.73%) ;
     margin: 0%;
     box-sizing: border-box;
     overflow-x: hidden;
@@ -12,7 +13,7 @@ html,body{
 
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .flex-row{
@@ -50,6 +51,7 @@ span{
 }
 
 .container{
+  
     margin: 0 5vw;
 }
 
@@ -188,11 +190,12 @@ main .title .btn:hover{
 /*    Main Section- Carousel   */
 
 main .blogg{
+    background: linear-gradient(289.67deg, #961cbe40 0.54%, #fefdff40 56.73%) !important;
     background: url(P.Image/abstract.png);
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
-    width: 100%;
+    /* height: 100vh; */
+    /* width: 100%; */
     background-size: 100%;
 }
 
